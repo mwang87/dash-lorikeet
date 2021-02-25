@@ -1,0 +1,7 @@
+include dashlorikeet/dashlorikeet.min.js
+include dashlorikeet/dashlorikeet.min.js.map
+include dashlorikeet/metadata.json
+include dashlorikeet/package-info.json
+include README.md
+include LICENSE
+include package.json
